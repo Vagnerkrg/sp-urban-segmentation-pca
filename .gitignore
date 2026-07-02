@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+.env
+
+# Arquivos temporários do Jupyter Notebook
+.ipynb_checkpoints/
+__pycache__/
+
+# Arquivos de dados (não enviar para o GitHub)
+*.csv
+*.xlsx
+*.json
